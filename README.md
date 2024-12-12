@@ -25,3 +25,5 @@ Dépot :
 Structure de projet : 
    . un dosier main contient tout les fichiers python définissant les classes de jeu et les images utilisées
    . un fichier readme 
+   . Une implémentation des listes  a été réalisée dans le fichier Class_jeu.py, 
+   Ces listes sont utilisée pour stocker et manipuler les aliens, protectios et les projectiles.
